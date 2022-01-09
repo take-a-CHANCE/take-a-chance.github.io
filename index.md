@@ -4,7 +4,9 @@ Hello World!
 
 ## Extole (2021-Present)
 ### Solutions Engineer
-- Led technical integrations for industry leading SaaS solutions
+- Led technical integrations for SaaS marketing solutions.
+- Designed solutions to work within customer constraints.
+- Worked with software engineers and product managers to improve product.
 
 ## Open Systems International (2018-2021)
 ### Project Engineer Supervisor
@@ -12,6 +14,7 @@ Hello World!
 - Organized resourcing and availability of team members, working with them to select projects that fit their goals.
 - Worked with customers requiring escalation or advanced assistance.
 - Provided senior technical assistance and design guidance to team members as needed.
+
 ### Project Engineer
 - Designed, built, inspected, and supported operational technology systems.
 - Worked directly with customers on design and issues throughout the project lifecycle.
