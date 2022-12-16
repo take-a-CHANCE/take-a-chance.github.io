@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 title: Chance Davis
 description: A basic portfolio site
 logo: https://pbs.twimg.com/profile_images/1183205247927365633/7-NJdHw1_400x400.jpg
+plugins:
+  - jekyll/mastodon_webfinger
+mastodon:
+  username: take_a_CHANCE
+  instance: mas.to
