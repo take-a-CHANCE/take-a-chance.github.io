@@ -12,6 +12,9 @@ Hello World!
 - Led technical integrations for SaaS marketing solutions.
 - Designed solutions to work within customer constraints.
 - Worked with software engineers and product managers to improve product.
+- Integrated with SSO partners (OAUTH2, SAML, OIDC).
+- Integrated REST APIs for clients.
+- Made HTML/CSS/JS fixes to Extole-hosted experiences to customize consumer experience.
 
 ## Open Systems International (2018-2021)
 ### Project Engineer Supervisor
@@ -31,8 +34,12 @@ Hello World!
 B.S in Electrical and Computer Engineering, Computer Engineering Program of Study
 
 # Interests
+* Homelabbing (Proxmox)
+* Homelab Networking (Mikrotik)
+* ADSB Data Logging
+* Travel
 * Hiking and Backpacking
+* XC Skiing
 * Mechanical Keyboards
-* Home Automation 
 * Playing Hockey
 * Learning New Things
